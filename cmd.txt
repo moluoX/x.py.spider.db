@@ -1,0 +1,5 @@
+E:
+cd E:\codepy\x.py.spider.db
+conda info -e
+activate x.py.spider.db
+scrapy crawl zdm
